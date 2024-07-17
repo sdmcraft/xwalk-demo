@@ -29,12 +29,19 @@
       "cards",
       "columns",
       "quote",
+      "image-carousel"
     ]
   },
   {
     "id": "cards",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "image-carousel",
+    "components": [
+      "image-carousel-item"
     ]
   }
 ]
